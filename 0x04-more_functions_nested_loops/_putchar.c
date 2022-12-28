@@ -9,6 +9,10 @@
  */
 
 int _putchar(char c)
+<<<<<<< HEAD
+=======
+
+>>>>>>> task 7
 {
 
 	 return (write(1, &c, 1));

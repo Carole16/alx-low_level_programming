@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+#ifndef MAIN_H
+#define MAIN_H
+
+>>>>>>> task 7
 int _putchar(char c);
 
 int _isupper(int c);
@@ -21,3 +27,8 @@ void print_square(int size);
 void print_triangle(int size);
 
 void print_number(int n);
+<<<<<<< HEAD
+=======
+
+#endif
+>>>>>>> task 7
